@@ -9,8 +9,13 @@ Input date into "Enter Date" box using M/D/YYYY format. If month or day value is
 For example, January 1st, 2010 would be written 1/1/2010. December 12th, 2010 would be written 12/12/2010. 
 ![Search By Date](static/images/date.png)
 ### Searching by City
+Input city name into "Enter City" box. Do not capitalize the names of the city. 
+For example, "Fort Worth" should be written as "fort worth". 
 ![Search By City](static/images/city.png)
 ### Searching by State
+Input state name into "Enter State" box using XX format. Do not capitalize the abbreviations. Standard abbreviations apply. 
+If you're not sure about which abbreviation to use, view [this](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/appendix_a.html) link to lookup the proper abbreviation. 
+For example, "Texas" should be written as "tx". 
 ![Search By State](static/images/state.png)
 ### Searching by Country
 ![Search By Country](static/images/country.png)
