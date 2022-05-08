@@ -52,5 +52,5 @@ As such, this webpage will become outdated very quickly, and will only be useful
 Utilizing up-to-date information will make the site more useful for users across the board and will prevent the website from becoming outdated. 
 API calling/Website scraping will allow the webpage to utilize the most up-to-date information available on the web, and would provide a more accurate user experience than a static data set. 
 
-2. Introduce a date-range filter. Allow for users to include filtered data from a range of dates (ex: 1/1/2015-1/1/2020) to better serve user needs. 
+2. Introduce a date-range filter. Allow for users to include filtered data from a range of dates (ex: 1/1/2015-1/1/2020) to better serve user's needs. 
 Instead of limiting users to one specific date, this will allow for a more dynamic user experience. 
