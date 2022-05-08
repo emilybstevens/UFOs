@@ -1,7 +1,7 @@
 # UFOs
 
 ## Overview
-- pupose is well-defined
+To create a webpage that can effectively filtered a data-set by multiple parameters at the same time, and return an updated table-set based on those parameters. 
 
 ## Results
 ### Searching by Date
