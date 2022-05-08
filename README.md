@@ -9,13 +9,15 @@ Input date into "Enter Date" box using M/D/YYYY format. If month or day value is
 For example, January 1st, 2010 would be written 1/1/2010. December 12th, 2010 would be written 12/12/2010. 
 ![Search By Date](static/images/date.png)
 ### Searching by City
-![Search By Date](static/images/city.png)
+![Search By City](static/images/city.png)
 ### Searching by State
-![Search By Date](static/images/state.png)
+![Search By State](static/images/state.png)
 ### Searching by Country
-![Search By Date](static/images/coutnry.png)
+![Search By Country](static/images/country.png)
 ### Searching by Shape
-![Search By Date](static/images/shape.png)
+![Search By Shape](static/images/shape.png)
+### Searching by Multiple Parameters
+![Search By Multiple Params](static/images/multiple.png)
 
 ## Summary
 
