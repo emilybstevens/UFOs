@@ -6,22 +6,32 @@
 ## Results
 ### Searching by Date
 Input date into "Enter Date" box using M/D/YYYY format. If month or day value is a single digit, only include the single digit (ie: Do not write January as 01). 
-For example, January 1st, 2010 would be written 1/1/2010. December 12th, 2010 would be written 12/12/2010. 
+For example, January 1st, 2010 would be written 1/1/2010. December 12th, 2010 would be written 12/12/2010. </br>
 ![Search By Date](static/images/date.png)
+
 ### Searching by City
-Input city name into "Enter City" box. Do not capitalize the names of the city. 
-For example, "Fort Worth" should be written as "fort worth". 
+Input city name into "Enter a City" box. Do not capitalize the names of the city. 
+For example, "Fort Worth" should be written as "fort worth". </br>
 ![Search By City](static/images/city.png)
+
 ### Searching by State
-Input state name into "Enter State" box using XX format. Do not capitalize the abbreviations. Standard abbreviations apply. 
-If you're not sure about which abbreviation to use, view [this](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/appendix_a.html) link to lookup the proper abbreviation. 
-For example, "Texas" should be written as "tx". 
+Input state name into "Enter a State" box using XX format. Do not capitalize the abbreviations. Standard abbreviations apply. 
+For example, "Texas" should be written as "tx". </br>
+If you're not sure about which abbreviation to use, view [this](https://www.faa.gov/air_traffic/publications/atpubs/cnt_html/appendix_a.html) link to lookup the proper abbreviation. </br>
 ![Search By State](static/images/state.png)
+
 ### Searching by Country
+Input country name into "Enter a Country" box using XX format. Do not capitalize the abbreviations. Standard abbreviations apply. 
+For example, "United States" should be written as "us". 
 ![Search By Country](static/images/country.png)
+
 ### Searching by Shape
+Input shape type into "Enter a Shape" box. Do not capitalize the shape. 
+Please note: input must exactly match desired shape. For example, you must write "circle" without capitalization or typo to return all "circle"-shaped UFO sightings. 
 ![Search By Shape](static/images/shape.png)
+
 ### Searching by Multiple Parameters
+Using the previous boxes, multiple filters can be applied to the table at once. The table will automatically update after each filter has been applied. 
 ![Search By Multiple Params](static/images/multiple.png)
 
 ## Summary
