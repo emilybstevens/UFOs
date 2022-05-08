@@ -5,7 +5,7 @@
 
 ## Results
 ### Searching by Date
-![Search By Date](../static/images/date.png)
+![Search By Date](static/images/date.png)
 Input date into "Enter Date" box using M/D/YYYY format. If month or day value is a single digit, only include the single digit (ie: Do not write January as 01). 
 For example, January 1st, 2010 would be written 1/1/2010. December 12th, 2010 would be written 12/12/2010. 
 
