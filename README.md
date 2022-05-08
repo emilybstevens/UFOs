@@ -22,16 +22,16 @@ If you're not sure about which abbreviation to use, view [this](https://www.faa.
 
 ### Searching by Country
 Input country name into "Enter a Country" box using XX format. Do not capitalize the abbreviations. Standard abbreviations apply. 
-For example, "United States" should be written as "us". 
+For example, "United States" should be written as "us". </br>
 ![Search By Country](static/images/country.png)
 
 ### Searching by Shape
 Input shape type into "Enter a Shape" box. Do not capitalize the shape. 
-Please note: input must exactly match desired shape. For example, you must write "circle" without capitalization or typo to return all "circle"-shaped UFO sightings. 
+Please note: input must exactly match desired shape. For example, you must write "circle" without capitalization or typo to return all "circle"-shaped UFO sightings. </br>
 ![Search By Shape](static/images/shape.png)
 
 ### Searching by Multiple Parameters
-Using the previous boxes, multiple filters can be applied to the table at once. The table will automatically update after each filter has been applied. 
+Using the previous boxes, multiple filters can be applied to the table at once. The table will automatically update after each filter has been applied. </br>
 ![Search By Multiple Params](static/images/multiple.png)
 
 ## Summary
